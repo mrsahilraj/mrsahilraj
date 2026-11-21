@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,35:0f172a,70:0369a1,100:38bdf8&height=220&section=header&text=Sahil%20Raj&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Full%20Stack%20Developer&descFontSize=17&descAlignY=60&descAlign=50" alt="Sahil Raj - Software Development Engineer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,35:0f172a,70:0369a1,100:38bdf8&height=220&section=header&text=Sahil%20Raj&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Product%20Designer&descFontSize=17&descAlignY=60&descAlign=50" alt="Sahil Raj - Software Development Engineer Banner" width="100%" />
 
 <br/>
 
@@ -32,7 +32,7 @@
 ```yaml
 identity:
   name: Sahil Raj
-  role: Software Development Engineer | Full Stack Developer
+  role: Software Development Engineer | Product Designer
   experience: SDE at Lumovate Intelligence
   education: B.Tech in Electronics & Communication Engineering, IIIT Manipur
   core_focus: Distributed Web Applications, Scalable APIs & Intuitive Design Systems
