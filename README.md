@@ -15,7 +15,7 @@
   <a href="https://mrsahil-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Live_Website-0284c7?style=for-the-badge&logo=netlify&logoColor=ffffff" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/sahil-raj-b8082424b/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahilraj7361/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mrsahilraj" target="_blank">
@@ -305,7 +305,7 @@ identity:
     <img src="https://img.shields.io/badge/Portfolio-Live_Website-0284c7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sahil-raj-b8082424b/" target="_blank">
+  <a href="https://www.linkedin.com/in/sahilraj7361/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sahil_Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
