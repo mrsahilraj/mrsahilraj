@@ -12,11 +12,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
-  <a href="https://www.linkedin.com/in/sahil-raj-b8082424b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+  <a href="https://mrsahil-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-0284c7?style=for-the-badge&logo=netlify&logoColor=ffffff" alt="Portfolio" />
   </a>
-  <a href="https://github.com/mrsahilraj/portfolio-" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Code-0f172a?style=for-the-badge&logo=next.js&logoColor=38bdf8" alt="Portfolio" />
+  <a href="https://www.linkedin.com/in/sahil-raj-b8082424b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mrsahilraj" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-mrsahilraj-1e293b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
@@ -204,7 +204,7 @@ identity:
         <p>
           <b>Key Highlights:</b> 100/100 Lighthouse performance metrics, accessible dark-mode tokens, and fluid layout transitions.
         </p>
-        <a href="https://github.com/mrsahilraj/portfolio-" target="_blank"><strong>View Repository →</strong></a>
+        <a href="https://mrsahil-portfolio.netlify.app/" target="_blank"><strong>Live Demo ↗</strong></a> &nbsp;|&nbsp; <a href="https://github.com/mrsahilraj/portfolio-" target="_blank"><strong>View Repository →</strong></a>
       </div>
     </td>
   </tr>
@@ -301,6 +301,10 @@ identity:
 <div align="center">
   <p>I am always open to discussing software engineering opportunities, scalable web architecture, or tech collaborations.</p>
   
+  <a href="https://mrsahil-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-0284c7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sahil-raj-b8082424b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sahil_Raj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -311,10 +315,6 @@ identity:
   &nbsp;
   <a href="mailto:sahilraj7361@gmail.com">
     <img src="https://img.shields.io/badge/Email-sahilraj7361%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/mrsahilraj/portfolio-" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Codebase-0284c7?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
