@@ -1,7 +1,11 @@
 <div align="center">
 
 <!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,35:0f172a,70:0369a1,100:38bdf8&height=220&section=header&text=Sahil%20Raj&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Product%20Designer&descFontSize=17&descAlignY=60&descAlign=50" alt="Sahil Raj - Software Development Engineer Banner" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:090d16,35:0f172a,70:0369a1,100:38bdf8&height=220&section=header&text=Sahil%20Raj&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Product%20Designer&descFontSize=17&descAlignY=60&descAlign=50">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,40:0284c7,100:38bdf8&height=220&section=header&text=Sahil%20Raj&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Product%20Designer&descFontSize=17&descAlignY=60&descAlign=50">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0f172a,40:0284c7,100:38bdf8&height=220&section=header&text=Sahil%20Raj&fontSize=46&fontAlignY=36&fontColor=ffffff&desc=Software%20Development%20Engineer%20%7C%20Product%20Designer&descFontSize=17&descAlignY=60&descAlign=50" alt="Sahil Raj - Software Development Engineer Banner" width="100%" />
+</picture>
 
 <br/>
 
@@ -98,7 +102,11 @@ identity:
 </table>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,mongodb,mysql,cpp,java,git,github,figma&theme=dark" alt="Technology Icons Matrix" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,mongodb,mysql,cpp,java,git,github,figma&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,mongodb,mysql,cpp,java,git,github,figma&theme=light">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,js,nodejs,express,mongodb,mysql,cpp,java,git,github,figma&theme=dark" alt="Technology Icons Matrix" />
+  </picture>
 </div>
 
 ---
@@ -219,12 +227,20 @@ identity:
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/mrsahilraj">
-          <img src="https://github-readme-stats.vercel.app/api?username=mrsahilraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github" alt="Sahil's GitHub Stats" height="175" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mrsahilraj&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=cbd5e1&rank_icon=github">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mrsahilraj&show_icons=true&include_all_commits=true&theme=default&hide_border=false&border_color=d0d7de&bg_color=f6f8fa&title_color=0969da&icon_color=0969da&text_color=1f2328&rank_icon=github">
+            <img src="https://github-readme-stats.vercel.app/api?username=mrsahilraj&show_icons=true&include_all_commits=true&theme=default&hide_border=false&border_color=d0d7de&bg_color=f6f8fa&title_color=0969da&icon_color=0969da&text_color=1f2328&rank_icon=github" alt="Sahil's GitHub Stats" height="175" />
+          </picture>
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/mrsahilraj">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsahilraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1" alt="Top Languages" height="175" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsahilraj&layout=compact&theme=tokyonight&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=38bdf8&text_color=cbd5e1">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsahilraj&layout=compact&theme=default&hide_border=false&border_color=d0d7de&bg_color=f6f8fa&title_color=0969da&text_color=1f2328">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrsahilraj&layout=compact&theme=default&hide_border=false&border_color=d0d7de&bg_color=f6f8fa&title_color=0969da&text_color=1f2328" alt="Top Languages" height="175" />
+          </picture>
         </a>
       </td>
     </tr>
@@ -236,7 +252,11 @@ identity:
     <tr>
       <td align="center">
         <a href="https://github.com/mrsahilraj">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsahilraj&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8" alt="GitHub Streak Stats" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mrsahilraj&theme=tokyonight&hide_border=false&border=30363d&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mrsahilraj&theme=default&hide_border=false&border=d0d7de&background=f6f8fa&ring=0969da&fire=0969da&currStreakNum=0969da&sideNums=1f2328&sideLabels=656d76&dates=656d76">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrsahilraj&theme=default&hide_border=false&border=d0d7de&background=f6f8fa&ring=0969da&fire=0969da&currStreakNum=0969da&sideNums=1f2328&sideLabels=656d76&dates=656d76" alt="GitHub Streak Stats" />
+          </picture>
         </a>
       </td>
     </tr>
@@ -248,7 +268,11 @@ identity:
     <tr>
       <td align="center">
         <a href="https://github.com/mrsahilraj">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsahilraj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=e2e8f0&area=true&hide_title=false" alt="Contribution Activity Graph" width="100%" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mrsahilraj&theme=tokyo-night&hide_border=false&border_color=30363d&bg_color=0d1117&color=38bdf8&line=38bdf8&point=e2e8f0&area=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mrsahilraj&theme=github-light&hide_border=false&border_color=d0d7de&bg_color=f6f8fa&color=0969da&line=0969da&point=1f2328&area=true">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrsahilraj&theme=github-light&hide_border=false&border_color=d0d7de&bg_color=f6f8fa&color=0969da&line=0969da&point=1f2328&area=true" alt="Contribution Activity Graph" width="100%" />
+          </picture>
         </a>
       </td>
     </tr>
@@ -268,7 +292,11 @@ identity:
         </a>
         <br/><br/>
         <a href="https://leetcode.com/sahil7361/" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/sahil7361?theme=dark&font=Inter&ext=heatmap" alt="Sahil's LeetCode Stats" width="100%" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sahil7361?theme=dark&font=Inter&ext=heatmap">
+            <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/sahil7361?theme=light&font=Inter&ext=heatmap">
+            <img src="https://leetcard.jacoblin.cool/sahil7361?theme=light&font=Inter&ext=heatmap" alt="Sahil's LeetCode Stats" width="100%" />
+          </picture>
         </a>
       </td>
       <td align="center" width="50%" valign="top">
