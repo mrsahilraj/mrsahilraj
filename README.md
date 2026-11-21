@@ -7,21 +7,25 @@
 
 <br/>
 
-<!-- Quick Bio & Identity Badges -->
+<!-- Introduction Tagline -->
 <p align="center">
-  <strong>Crafting scalable full-stack architectures, high-performance web systems, and intuitive user experiences.</strong>
+  <strong>Crafting scalable digital products, high-performance web applications, and intuitive user experiences.</strong>
 </p>
 
+<!-- Professional Navigation -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-India-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
+  <img src="https://img.shields.io/badge/LOCATION-INDIA-1e293b?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" alt="Location" />
+  &nbsp;
   <a href="https://mrsahil-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Website-0284c7?style=for-the-badge&logo=netlify&logoColor=ffffff" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-LIVE_WEBSITE-0284c7?style=for-the-badge&logo=netlify&logoColor=ffffff" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/sahilraj7361/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0f172a?style=for-the-badge&logo=linkedin&logoColor=38bdf8" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/mrsahilraj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-mrsahilraj-1e293b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-MRSAHILRAJ-1e293b?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
 </p>
 
